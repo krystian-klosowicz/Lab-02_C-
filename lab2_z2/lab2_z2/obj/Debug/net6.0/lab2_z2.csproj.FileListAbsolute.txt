@@ -1,0 +1,15 @@
+D:\!STUDIA\C#\lab2_z2\lab2_z2\bin\Debug\net6.0\lab2_z2.exe
+D:\!STUDIA\C#\lab2_z2\lab2_z2\bin\Debug\net6.0\lab2_z2.deps.json
+D:\!STUDIA\C#\lab2_z2\lab2_z2\bin\Debug\net6.0\lab2_z2.runtimeconfig.json
+D:\!STUDIA\C#\lab2_z2\lab2_z2\bin\Debug\net6.0\lab2_z2.dll
+D:\!STUDIA\C#\lab2_z2\lab2_z2\bin\Debug\net6.0\ref\lab2_z2.dll
+D:\!STUDIA\C#\lab2_z2\lab2_z2\bin\Debug\net6.0\lab2_z2.pdb
+D:\!STUDIA\C#\lab2_z2\lab2_z2\obj\Debug\net6.0\lab2_z2.csproj.AssemblyReference.cache
+D:\!STUDIA\C#\lab2_z2\lab2_z2\obj\Debug\net6.0\lab2_z2.GeneratedMSBuildEditorConfig.editorconfig
+D:\!STUDIA\C#\lab2_z2\lab2_z2\obj\Debug\net6.0\lab2_z2.AssemblyInfoInputs.cache
+D:\!STUDIA\C#\lab2_z2\lab2_z2\obj\Debug\net6.0\lab2_z2.AssemblyInfo.cs
+D:\!STUDIA\C#\lab2_z2\lab2_z2\obj\Debug\net6.0\lab2_z2.csproj.CoreCompileInputs.cache
+D:\!STUDIA\C#\lab2_z2\lab2_z2\obj\Debug\net6.0\lab2_z2.dll
+D:\!STUDIA\C#\lab2_z2\lab2_z2\obj\Debug\net6.0\ref\lab2_z2.dll
+D:\!STUDIA\C#\lab2_z2\lab2_z2\obj\Debug\net6.0\lab2_z2.pdb
+D:\!STUDIA\C#\lab2_z2\lab2_z2\obj\Debug\net6.0\lab2_z2.genruntimeconfig.cache
